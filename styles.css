@@ -1,18 +1,25 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Tahoma, sans-serif;
 }
-
 
 .header {  
     text-align: center;
     font-size: 36px;
 }
 
-img {
+.recipe-menu {
+    font-size: 24px;
+}
+
+.recipe-menu img {
     height: auto;
     width: 200px;
 }
+.header-image img {
+    height: auto;
+    width: 400px;
+}
 
-.recipe {
-    font-size: 24px;
+.recipe-body {
+    font-size: 12px;
 }
